@@ -1,0 +1,72 @@
+
+{
+ "name": "diversedummydata",
+ "children": [
+  {
+   "name": "European",
+   "children": [
+    {
+     "name": "Northwestern European",
+     "children": [
+      {"name": "British & Irish", "size": 10.7},
+      {"name": "French & German", "size": 5.5},
+      {"name": "Scandinavian", "size": 1.6},
+      {"name": "Finnish", "size": 0},
+      {"name": "Broadly Northwestern European", "size": 3.8}
+     ]
+    },
+    {
+     "name": "Southern European",
+     "children": [
+      {"name": "Sardinian", "size": 0},
+      {"name": "Italian", "size": 0},
+      {"name": "Iberian", "size": 0},
+      {"name": "Balkan", "size": 0},
+      {"name": "Broadly Southern European", "size": 3.3}
+     ]
+    },
+    {"name": "Ashkenazi", "size": 0.1},
+    {"name": "Eastern European", "size": 0},
+    {"name": "Broadly European", "size": 0.5}
+   ]
+  },
+  {
+   "name": "South Asian", 
+   "children": [
+    {"name": "Broadly South Asian", "size": 0}
+  ]
+  },
+   {"name": "East Asian & Native American", "children": [
+    {"name": "Native American", "size": 0.2},
+    {"name": "East Asian", "children": [
+      {"name": "Japanese", "size": 5.3},
+      {"name": "Korean", "size": 1.2},
+      {"name": "Yakut", "size": 0},
+      {"name": "Mongolian", "size": 0},
+      {"name": "Chinese", "size": 20.7},
+      {"name": "Broadly East Asian", "size": 4.3}
+    ]
+    },
+    {"name": "Southeast Asian", "size": 1.3},
+    {"name": "Broadly East Asian & Native American", "size": 3}
+   ]
+  },
+  {"name": "Sub-Saharan African", "children": [
+    {"name": "West African", "size": 20.6},
+    {"name": "East African", "size": 0},
+    {"name": "Central & South African", "size": 5.1},
+    {"name": "Broadly Sub-Saharan African", "size": 4.3}
+  ]},
+  {"name": "Middle Eastern & North African", "children": [
+    {"name": "Middle Eastern", "size": 0},
+    {"name": "North African", "size": 0.7},
+    {"name": "Broadly Middle Eastern & North African", "size": 0}
+   ]
+  }, 
+  {"name": "Oceanian", "children": [
+    {"name": "Broadly Oceanian", "size": 7.7}
+   ]
+  },
+  {"name": "Unassigned", "size": 0.1}
+ ]
+}

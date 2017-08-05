@@ -1,0 +1,30 @@
+
+{
+ "name": "SM",
+ "children": [
+  {
+   "name": "European",
+   "children": [
+    {
+     "name": "Northwestern European",
+     "children": [
+      {"name": "British & Irish", "size": 527664},
+      {"name": "French & German", "size": 5297},
+      {"name": "Broadly Northwestern European", "size": 48506}
+     ]
+    },
+    {
+     "name": "Southern European",
+     "children": [
+      {"name": "Iberian", "size": 2162},
+      {"name": "Broadly Southern European", "size": 1985}
+     ]
+    },
+    {"name": "Ashkenazi", "size": 270},
+    {"name": "Broadly European", "size": 1088}
+   ]
+  },
+  {"name": "Sub-Saharan African", "size": 38}, 
+  {"name": "Unassigned", "size": 252}
+ ]
+}

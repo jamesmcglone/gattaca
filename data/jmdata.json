@@ -1,0 +1,72 @@
+
+{
+ "name": "jm",
+ "children": [
+  {
+   "name": "European",
+   "children": [
+    {
+     "name": "Northwestern European",
+     "children": [
+      {"name": "British & Irish", "size": 91.2},
+      {"name": "French & German", "size": 3.3},
+      {"name": "Scandinavian", "size": 0},
+      {"name": "Finnish", "size": 0},
+      {"name": "Broadly Northwestern European", "size": 5.1}
+     ]
+    },
+    {
+     "name": "Southern European",
+     "children": [
+      {"name": "Sardinian", "size": 0},
+      {"name": "Italian", "size": 0},
+      {"name": "Iberian", "size": 0},
+      {"name": "Balkan", "size": 0},
+      {"name": "Broadly Southern European", "size": 0}
+     ]
+    },
+    {"name": "Ashkenazi", "size": 0.1},
+    {"name": "Eastern European", "size": 0},
+    {"name": "Broadly European", "size": 0.1}
+   ]
+  },
+  {
+   "name": "South Asian", 
+   "children": [
+    {"name": "Broadly South Asian", "size": 0}
+  ]
+  },
+   {"name": "East Asian & Native American", "children": [
+    {"name": "Native American", "size": 0.2},
+    {"name": "East Asian", "children": [
+      {"name": "Japanese", "size": 0},
+      {"name": "Korean", "size": 0},
+      {"name": "Yakut", "size": 0},
+      {"name": "Mongolian", "size": 0},
+      {"name": "Chinese", "size": 0},
+      {"name": "Broadly East Asian", "size": 0}
+    ]
+    },
+    {"name": "Southeast Asian", "size": 0},
+    {"name": "Broadly East Asian & Native American", "size": 0}
+   ]
+  },
+  {"name": "Sub-Saharan African", "children": [
+    {"name": "West African", "size": 0},
+    {"name": "East African", "size": 0},
+    {"name": "Central & South African", "size": 0},
+    {"name": "Broadly Sub-Saharan African", "size": 0}
+  ]},
+  {"name": "Middle Eastern & North African", "children": [
+    {"name": "Middle Eastern", "size": 0},
+    {"name": "North African", "size": 0},
+    {"name": "Broadly Middle Eastern & North African", "size": 0}
+   ]
+  }, 
+  {"name": "Oceanian", "children": [
+    {"name": "Broadly Oceanian", "size": 0}
+   ]
+  },
+  {"name": "Unassigned", "size": 0.1}
+ ]
+}
